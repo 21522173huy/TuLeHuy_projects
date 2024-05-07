@@ -1,3 +1,8 @@
+# I have built and modified this architecture based on :
+# - Paper : https://arxiv.org/pdf/1908.06954
+# - Github : https://github.com/husthuaan/AoANet
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
